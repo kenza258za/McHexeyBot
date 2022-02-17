@@ -1,6 +1,6 @@
 {
     "bot-account":{ 
-        "username": "HexeyBot",
+        "username": "ChunkLoader",
         "password": "",
         "type": "mojang"
     },
@@ -21,7 +21,7 @@
     "utils":{
         "auto-auth":{
             "enabled": false,
-            "password": ""
+            "password": "12345678"
         },
 
         "anti-afk":{
