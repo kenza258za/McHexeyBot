@@ -6,7 +6,7 @@
     },
 
     "server":{
-        "ip": "23.88.4.230:27658",
+        "ip": "play.hexey-survival.tk",
         "port": 27658,
         "version": "1.18.1"
     },
