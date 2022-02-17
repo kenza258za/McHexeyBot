@@ -6,8 +6,8 @@
     },
 
     "server":{
-        "ip": "localhost",
-        "port": 25565,
+        "ip": "play.hexey-survival.tk",
+        "port": 27658,
         "version": "1.18.1"
     },
 
