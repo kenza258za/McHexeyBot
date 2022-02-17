@@ -1,0 +1,14 @@
+{
+    "name": "afk-player-bot-minecraft",
+    "description": "Minecraft Anti Kick Bot",
+    "keywords": [
+        "server",
+        "afk",
+        "bot"
+    ],
+    "env": {},
+    "website": "",
+    "repository": "https://github.com/itsmeR1F4I/afk-player-bot-minecraft",
+    "logo": "",
+    "stack": "container"
+}

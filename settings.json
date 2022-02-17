@@ -1,0 +1,48 @@
+{
+    "bot-account":{ 
+        "username": "HexeyBot",
+        "password": "",
+        "type": "mojang"
+    },
+
+    "server":{
+        "ip": "ult14.falix.gg:27658",
+        "port": 27658,
+        "version": "1.18.1"
+    },
+
+    "position":{
+        "enabled": true,
+        "x": 23,
+        "y": 102,
+        "z": 4171
+    },
+
+    "utils":{
+        "auto-auth":{
+            "enabled": false,
+            "password": "12345678"
+        },
+
+        "anti-afk":{
+            "enabled": true,
+            "sneak": true
+        },
+
+        "chat-messages":{
+            "enabled": true,
+            "repeat": true,
+            "repeat-delay": 360,
+
+            "messages": [
+                "Hai Semuwa ", 
+                "SanZ Gay ", 
+                "Cookie Tolol", 
+                "Test "
+            ]
+        },
+
+        "chat-log": true,
+        "auto-reconnect": true
+    }
+}
