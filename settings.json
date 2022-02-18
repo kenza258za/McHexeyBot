@@ -1,12 +1,12 @@
 {
     "bot-account":{ 
-        "username": "bot",
+        "username": "HexeyBot",
         "password": "",
         "type": "mojang"
     },
 
     "server":{
-        "ip": "play.hexey-survival.tk",
+        "ip": "23.88.4.230",
         "port": 27658,
         "version": "1.18.1"
     },
